@@ -14,6 +14,20 @@ export const certificationsInfo = [
         credentialUrl: 'https://drive.google.com/file/d/16uvgr8Pq4Mhb54OVSFaQ1xyLGRE3tUuN/view?usp=drivesdk'
     },
     { 
+        certificationName: 'React for Beginners',
+        issuedOn: 'September, 2024',
+        issuingOrganization: 'SkillUP by Simplilearn',
+        imageUrl: '/Images/skillup2.png',
+        credentialUrl: 'https://drive.google.com/file/d/179xtTVGf3-1AR-DMigpSJR95-g-vWxx6/view?usp=drivesdk'
+    },
+    { 
+        certificationName: 'Data Structures and Algorithms',
+        issuedOn: 'September, 2024',
+        issuingOrganization: 'SkillUP by Simplilearn',
+        imageUrl: '/Images/skillup2.png',
+        credentialUrl: 'https://drive.google.com/file/d/179xtTVGf3-1AR-DMigpSJR95-g-vWxx6/view?usp=drivesdk'
+    },
+    { 
         certificationName: 'Python for Beginners',
         issuedOn: 'November, 2012',
         issuingOrganization: 'SkillUP by Simplilearn',

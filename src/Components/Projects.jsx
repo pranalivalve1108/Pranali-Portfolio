@@ -21,7 +21,6 @@ function Projects() {
                                 projectDescription={project.projectDescription} 
                                 projectUrl={project.projectUrl}
                                 projectSkills={project.projectSkills}
-                                projectDuration = {project.projectDuration}
                                 />)
                         })
                     }

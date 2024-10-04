@@ -33,10 +33,6 @@ export const skillList = [
         skillUrl: '/Images/Github.png',
     },
     {
-        skillName: 'JQuery',
-        skillUrl: '/Images/jquery.png',
-    },
-    {
         skillName: 'React',
         skillUrl: '/Images/react.png',
     },
@@ -47,5 +43,9 @@ export const skillList = [
     {
         skillName: 'AWS',
         skillUrl: '/Images/aws.png',
+    },
+    {
+        skillName: 'C++',
+        skillUrl: '/Images/c++.png',
     },
 ];

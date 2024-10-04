@@ -15,13 +15,13 @@ function About() {
   return (
     <div className="section-container">
       <Header Heading="About Me"
-      subHeading="I am a recent computer engineering graduate with a strong foundation in programming languages, 
-            and their functionalities. As a passionate and detail-oriented front-end developer, 
-            I have a strong foundation in HTML, CSS, JavaScript, and modern front-end frameworks like React. 
-            I am eager to contribute my skills in creating responsive, user-friendly web interfaces. 
-            With a keen eye for design and a commitment to clean code, 
-            I am enthusiastic about learning and growing in a collaborative team environment. 
-            I have worked on multiple projects."/>
+      subHeading="I am a recently graduated with a degree in COMPUTER ENGINEERING from Pune University with 8.88 cgpa.
+                I am particularly passionate about technology & problem solving.
+                During my academic journey, I gained a strong knowledge in various programming languages like JAVA, PYTHON & JAVASCRIPT
+                also I have hands-on experience with web development technologies such as HTML, CSS, BOOTSTRAP & REACT.
+                I also have a basic understanding of DATA STRUCTURE & ALGORITHMS, which has helped me to approach problems more efficiently
+                & design better solutions. I have worked on several personal projects that have allowed me to apply my knowledge in practical scenarios, improving my teamwork
+                & communication skills, also I am eager to continue learning & growing in the software development field."/>
 
             <div className="education-accordian accordian-alignment">
             <Accordion className="accordians" style={{backgroundColor: "#84b4f7"}}>
