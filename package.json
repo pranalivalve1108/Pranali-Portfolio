@@ -1,16 +1,16 @@
 {
-  "homepage": "https://pranalivalve1108/github.io/Pranali-Portfolio",
+  "homepage": "https://pranalivalve1108.github.io/Pranali-Portfolio",
   "name": "pranali-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
