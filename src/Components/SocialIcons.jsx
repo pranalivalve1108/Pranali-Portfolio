@@ -20,7 +20,7 @@ export const SocialIcons = () => {
         <a href="https://www.hackerrank.com/profile/pranalivalve2001" target="_blank" className="social-icon" rel="noreferrer">
                     <img className="resize" src="./Images/hackerrank.png" alt="Hackerrank" />
         </a>
-        <a href="https://github.com/pranalivalve1108/Portfolio" target="_blank" className="social-icon" rel="noreferrer">
+        <a href="https://porfolio-pranali.netlify.app" target="_blank" className="social-icon" rel="noreferrer">
                     <img className="resize" src="./Images/Portfolio.png" alt="Portfolio" />
         </a>
 

@@ -49,7 +49,7 @@ function About() {
                                 Matoshri Aasrabai Polytechnic - Maharashtra State Board : <i>  Aug’17 - Nov’20</i>
                             </h2>
                             <p className="about-deatils">
-                                Diploma of Computer Engineering	 <br/>		       	           
+                                Diploma in Computer Engineering	 <br/>		       	           
                                 Percentage: <strong>87.43%</strong>  <br/>
                             </p>
 

@@ -28,6 +28,13 @@ export const certificationsInfo = [
         credentialUrl: 'https://drive.google.com/file/d/179xtTVGf3-1AR-DMigpSJR95-g-vWxx6/view?usp=drivesdk'
     },
     { 
+        certificationName: 'Google Cloud Computing',
+        issuedOn: 'September, 2024',
+        issuingOrganization: 'SkillUP by Simplilearn',
+        imageUrl: '/Images/skillup2.png',
+        credentialUrl: 'https://drive.google.com/file/d/179xtTVGf3-1AR-DMigpSJR95-g-vWxx6/view?usp=drivesdk'
+    },
+    { 
         certificationName: 'Python for Beginners',
         issuedOn: 'November, 2012',
         issuingOrganization: 'SkillUP by Simplilearn',

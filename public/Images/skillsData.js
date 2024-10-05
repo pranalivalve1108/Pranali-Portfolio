@@ -48,4 +48,8 @@ export const skillList = [
         skillName: 'C++',
         skillUrl: '/Images/c++.png',
     },
+    {
+        skillName: 'GCP',
+        skillUrl: '/Images/gcp.png',
+    },
 ];
